@@ -1,0 +1,5 @@
+#!/bin/bash
+# This file is used when choosing "i3" from the login window
+
+. ~/.profile
+. ~/.xinitrc

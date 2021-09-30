@@ -1,0 +1,10 @@
+[http]
+	cookiefile = ~/.gitcookies
+[pager]
+	branch = false
+[core]
+	editor = vim
+	excludesFile = ~/.gitignore
+[user]
+	name = Aidan Wolter
+	email = wolter.aidan@gmail.com

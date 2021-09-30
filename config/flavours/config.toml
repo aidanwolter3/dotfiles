@@ -1,0 +1,9 @@
+[[item]]
+file = "~/.Xresources"
+template = "xresources"
+start = "! Start flavours"
+end = "! End flavours"
+
+[[item]]
+file = "~/.zshrc"
+template = "shell"

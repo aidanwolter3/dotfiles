@@ -1,0 +1,6 @@
+Host *
+  ControlMaster auto
+  ControlPath ~/.ssh/master-%r@%h:%p
+  ForwardAgent yes
+  ControlPersist 15h
+  ServerAliveInterval 30
